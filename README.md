@@ -5,11 +5,15 @@
 Consider a puzzle consisting of a string of uniformly sized cubes. Every couple of blocks the string turns and provides a plane of rotation. Here's an actual image of one of these puzzles:
 
 <img src="https://i.imgur.com/v9FCo73.jpg" width=500></img>
+<br>
+<br>
 Figure 1: An unsolved worm puzzle.
 
 The coloring is impertinent here. The target of the puzzle is to assemble it into a cube, like so:
 
 <img src="https://i.imgur.com/uJZi0XF.jpg" width=500></img>
+<br>
+<br>
 Figure 2: A solved worm puzzle.
 
 By the way, if you know what these puzzles are called, please tell me!
@@ -19,6 +23,8 @@ By the way, if you know what these puzzles are called, please tell me!
 Anyway, the solver tells us instructions on how to solve these types of puzzles. To use it, first lay out the puzzle like so:
 
 <img src="https://i.imgur.com/tu9BKWE.jpg" width=500></img>
+<br>
+<br>
 Figure 3: A layed-out worm puzzle.
 
 Notice that the puzzle is grouped in small pieces. In this case, the lengths of each of the pieces, including the corners, is 3, 2, 2, 3, 2, 3, 2, 2, ... etc.
